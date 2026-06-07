@@ -1,21 +1,164 @@
-# 💫 About Me:
-Hey there, I'm Anushka, ✨<br>I'm currently working on Pizara, an app that tracks price drops for products you love, so you never miss a deal!<br>I'm looking to collaborate on any projects!<br>I'm looking for help with React Native & Google Cloud integrations ☁️<br>I'm currently learning React / Next.js, React Native, Google Cloud, Java, Unity<br>Ask me about building apps that make everyday life easier<br>Fun fact: I sing and game! ❤️<br><br>
+<div align="center">
 
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:00ff9f,100:ff007f&height=200&section=header&text=Anushka%20P.&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Code.%20Create.%20Conquer.&descAlignY=55&descSize=20&animation=fadeIn" width="100%" />
 
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aifico) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anushkaprasad11@gmail.com) 
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&random=false&width=600&lines=Electronics+%26+CS+Engineer+%40+SRMIST;GSSoC+2026+Contributor+%26+Mentee;Game+Dev+%7C+Unity+%7C+Blender+%7C+C%23;Building+%E2%86%92+Shipping+%E2%86%92+Iterating" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anushka11p&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anushka11p&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anushka11p&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anushka11p&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Profile views + social badges -->
+<img src="https://komarev.com/ghpvc/?username=anushka11p&label=Profile+Views&color=00ff9f&style=flat-square" />
+&nbsp;
+&nbsp;
+<a href="https://leetcode.com/u/TvQh01XNNR/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anushka11p&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🧬 About Me
 
+```ts
+const anushka = {
+  currentRole : ["Intern @ Cybercode EduLabs"],
+  openSource  : "GSSoC 2026 — Contributor + Mentee (Open Source & AI Agents track)",
+  passions    : ["Game Development", "3D Art (Blender)", "Full-Stack Engineering"],
+  dreamGoal   : "Build something people love, ship it, repeat.",
+  funFact     : "I designed two Unity games before writing my first LangChain pipeline.",
+};
+```
+
+---
+
+## ⚡ Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+---
+
+## 🎮 Game Dev Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🐦 Flap Flap Bird</h3>
+      <p>A Unity-built Flappy Bird clone with custom physics tuning and procedural pipe generation. First complete game shipped end-to-end.</p>
+      <img src="https://img.shields.io/badge/Unity-C%23-100000?style=flat-square&logo=unity&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <h3>💛 Save the Yellow</h3>
+      <p>A reflex-based arcade game built in Unity. Designed character art in Blender and handled complete game loop, collision, and scoring logic.</p>
+      <img src="https://img.shields.io/badge/Unity-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+> 🛠️ Currently levelling up: **Advanced Unity mechanics, C# design patterns, and Blender rigging**
+
+---
+
+## 🌿 GSSoC 2026 — Open Source Trail
+
+> **Track:** Open Source Contributor + AI Agents Mentee
+
+Repositories I've contributed to across GSSoC 2026:
+
+| Repo | Contribution Type | Status |
+|------|------------------|--------|
+| **PrepIQ** | Fixed Vercel/API routing bugs | ✅ Merged |
+| **VISUALAIZE** | Mic button fix | ✅ Merged |
+| **Learnova** | Next.js 404 route stubs | ✅ Merged |
+| **StorySpark AI** | Feature + bug fix | ✅ Merged |
+| **LegalEase** | Frontend issue | ✅ Merged |
+| **Agri-Vision** | Bug report + PR | ✅ Merged |
+| **SpectraX** | Audit + issue filing | 🔄 Active |
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI Job Application Tracker</h3>
+      <p>End-to-end job tracking with LangChain + OpenAI API, built on Next.js + Supabase. RAG pipeline for resume-to-JD matching.</p>
+      <img src="https://img.shields.io/badge/LangChain-Next.js-1C3C3C?style=flat-square" />
+    </td>
+    <td width="50%">
+      <h3>📊 MLOps Drift Detection System</h3>
+      <p>Model monitoring pipeline using scikit-learn, Evidently AI, MLflow, and Streamlit. Detects data + concept drift in production.</p>
+      <img src="https://img.shields.io/badge/scikit--learn-MLflow-F7931E?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🗺️ GapMap</h3>
+      <p>AI-powered gap analysis tool for engineering students. Built for Hack2Skill PromptWars using Next.js, Firebase, and Gemini API.</p>
+      <img src="https://img.shields.io/badge/Gemini-Firebase-4285F4?style=flat-square" />
+    </td>
+    <td width="50%">
+      <h3>🚨 RoadSoS</h3>
+      <p>Emergency response PWA submitted to IIT Madras Road Safety Hackathon 2026. Real-time incident reporting + nearest responder routing.</p>
+      <img src="https://img.shields.io/badge/PWA-IIT%20Madras%20Hackathon-FF007F?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=anushka11p&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f23&title_color=00ff9f&icon_color=ff007f&text_color=ffffff&rank_icon=github" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka11p&layout=compact&theme=radical&hide_border=true&bg_color=0f0f23&title_color=00ff9f&text_color=ffffff" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka11p&theme=radical&hide_border=true&background=0f0f23&ring=00ff9f&fire=ff007f&currStreakLabel=00ff9f" />
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+- 🎓 **B.Tech Student** — specializing at the intersection of hardware and software
+- 🌱 **GSSoC 2026** — Active contributor across 7+ repos in Open Source & AI Agents tracks
+- 🎮 **Game Developer** — 2 shipped Unity games, actively learning advanced mechanics
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,50:00ff9f,100:0f0f23&height=120&section=footer" width="100%" />
+
+*"Good code is its own best documentation." — Steve McConnell*
+
+</div>
