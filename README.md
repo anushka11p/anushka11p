@@ -1,91 +1,101 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:6a0dad,100:ffd700&height=210&section=header&text=⚔️%20Anushka%20Prasad&fontSize=45&fontColor=ffd700&fontAlignY=35&desc=Hero%20of%20the%20Stack%20%7C%20Builder%20of%20Worlds&descAlignY=57&descSize=17&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ffff&height=200&text=ANUSHKA.EXE&fontSize=52&fontColor=00ffff&fontAlignY=50&desc=//+SYSTEM+ONLINE+//+INITIALIZING+DEV+MODE&descAlignY=70&descSize=15&animation=blinking" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=640&lines=⚔️+ECE+Sophomore+%40+SRMIST+Chennai;🧙+GSSoC+2026+—+Open+Source+%26+AI+Agents;🎮+Game+Dev+%7C+Unity+%7C+Blender+%7C+C%23;🏰+Intern+%40+HPE+Bengaluru+%7C+Jun–Jul+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=800&color=00FFFF&center=true&vCenter=true&width=640&lines=%3E+BOOTING+ANUSHKA.EXE...+OK;%3E+ECE+UNIT+%40+SRMIST+CHENNAI+LOADED;%3E+GSSOC_2026.sh+RUNNING...;%3E+INTERNSHIP%3A+HPE_BENGALURU+CONFIRMED;%3E+UNITY+ENGINE+INITIALIZED;%3E+READY+FOR+INPUT+_" alt="Typing SVG" />
 </a>
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=anushka11p&label=Adventurers+Met&color=6a0dad&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=anushka11p&label=SYSTEM_PINGS&color=00ffff&style=flat-square" />
 &nbsp;
-<a href="https://youtube.com/@aifico"><img src="https://img.shields.io/badge/YouTube-%40aifico-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+<a href="https://youtube.com/@aifico"><img src="https://img.shields.io/badge/BROADCAST-%40aifico-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:anushkaprasad11@gmail.com"><img src="https://img.shields.io/badge/Send_a_Raven-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="mailto:anushkaprasad11@gmail.com"><img src="https://img.shields.io/badge/UPLINK-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 📜 The Hero's Chronicle
+## ⟩⟩ OPERATOR_PROFILE.json
 
-```
-╔══════════════════════════════════════════════════════════╗
-║              CHARACTER SHEET — ANUSHKA PRASAD            ║
-╠══════════════════════════════════════════════════════════╣
-║  CLASS      : Full-Stack Mage + Game Dev Artisan         ║
-║  GUILD      : SRMIST Chennai (ECE, 2024–2028)            ║
-║  RANK       : GSSoC 2026 Contributor + AI Agents Mentee  ║
-║  ACTIVE QUEST: Prizara — the Price-Watching Artifact     ║
-║  WEAPON     : Next.js, Unity, C#, Python, LangChain      ║
-║  TRAIT      : "Sings between compile errors"             ║
-╚══════════════════════════════════════════════════════════╝
+```json
+{
+  "handle"      : "anushka11p",
+  "unit_type"   : "Full-Stack Engineer + Game Dev",
+  "base"        : "SRMIST Chennai — ECE Division (2024–2028)",
+  "active_ops"  : [
+    "HPE Bengaluru — Internship (Jun–Jul 2026)",
+    "Cybercode EduLabs — Active Deployment",
+    "GSSoC 2026 — Open Source + AI Agents Track"
+  ],
+  "primary_objective" : "Prizara — real-time price intel system",
+  "secondary_skills"  : ["Unity", "Blender", "LangChain", "RAG pipelines"],
+  "threat_level"      : "BUILDS IN PRODUCTION",
+  "signature"         : "sings between compile errors 🎵"
+}
 ```
 
 ---
 
-## 🧪 Skill Tree
+## ⟩⟩ TECH_MATRIX.load()
 
-**Arcane Languages**
+**[ LANGUAGES ]**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-00ffff?style=flat-square&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Enchanted Frameworks**
+**[ FRAMEWORKS ]**
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=00ffff)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-00ffff?style=flat-square&logo=tailwind-css&logoColor=black)
 
-**Forge & Crafting Tools**
+**[ SIMULATION ENGINES ]**
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-ffffff?style=flat-square&logo=unity&logoColor=black)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal-313131?style=flat-square&logo=unrealengine&logoColor=white)
 
-**Sacred Datastores**
+**[ CLOUD / DATA ]**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-## 🏰 The Game Forge — Shipped Worlds
+## ⟩⟩ SIMULATION_WORLDS.exe
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  GAME ENGINE: UNITY  //  STATUS: TWO WORLDS SHIPPED     │
+└─────────────────────────────────────────────────────────┘
+```
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-### 🐦 Flap Flap Bird
-*"The Winged Trial"*
+### `WORLD_01` — Flap Flap Bird
+**SIM TYPE:** Endless Runner
+Custom physics, procedural pipe gen, full game loop. First complete deployment.
 
-A Unity-built Flappy Bird clone with custom physics and procedural pipe generation. First world shipped end-to-end.
-
-`Unity` · `C#` · `2D Physics`
+`Unity` · `C#` · `2D`
 
 </td>
 <td width="50%" align="center">
 
-### 💛 Save the Yellow
-*"Guardian's Oath"*
-
-Reflex-based arcade game in Unity. Character art forged in Blender. Full game loop, collision, and scoring — all hand-crafted.
+### `WORLD_02` — Save the Yellow
+**SIM TYPE:** Reflex Arcade
+Character assets rendered in Blender. Collision detection + scoring system. Hand-built.
 
 `Unity` · `C#` · `Blender`
 
@@ -93,70 +103,64 @@ Reflex-based arcade game in Unity. Character art forged in Blender. Full game lo
 </tr>
 </table>
 
-> 🔮 *Currently mastering:* **Advanced Unity spellcraft · C# design runes · Blender rigging rituals**
+```
+> NEXT_BUILD: advanced mechanics patch... loading... ████████░░ 78%
+```
 
 ---
 
-## 🗺️ The GSSoC Quest Log
+## ⟩⟩ GSSOC_OPS.log
 
-**Track:** Open Source Contributor + AI Agents Mentee
+**MISSION:** GSSoC 2026 — Open Source + AI Agents Track
 
-| Quest | Type | Outcome |
-|-------|------|---------|
-| ⚔️ **PrepIQ** | Slew Vercel/API routing bugs | ✅ Victory |
-| 🛡️ **VISUALAIZE** | Repaired the mic button ward | ✅ Victory |
-| 📜 **Learnova** | Carved Next.js 404 route stubs | ✅ Victory |
-| 🔥 **StorySpark AI** | Feature enchanted + bug slain | ✅ Victory |
-| 🌿 **LegalEase** | Frontend curse lifted | ✅ Victory |
-| 🌾 **Agri-Vision** | Bug report scroll + PR filed | ✅ Victory |
-| 🔭 **SpectraX** | Dungeon audit in progress | 🔄 Active |
+```
+[✔] TARGET: PrepIQ         → Patched Vercel/API routing exploit
+[✔] TARGET: VISUALAIZE     → Mic button module restored
+[✔] TARGET: Learnova       → Next.js 404 routes injected
+[✔] TARGET: StorySpark AI  → Feature deployed + bug neutralized
+[✔] TARGET: LegalEase      → Frontend vulnerability closed
+[✔] TARGET: Agri-Vision    → Recon complete, PR submitted
+[~] TARGET: SpectraX       → Audit in progress...
+```
 
 ---
 
-## 📦 The Artifact Vault — Featured Projects
+## ⟩⟩ DEPLOYED_ARTIFACTS.sys
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI Job Application Tracker
-*Legendary Artifact*
+### `0x01` [Prizara](https://github.com/anushka11p/prizara)
+Real-time price intel. Scrapes, tracks, alerts. Next.js + Supabase + Firecrawl.
 
-LangChain + OpenAI API + Next.js + Supabase. RAG pipeline for resume-to-JD matching. Built to survive the job hunt.
-
-`LangChain` · `Next.js` · `Supabase`
+`JS` · `Next.js` · `Supabase` ⭐ 1
 
 </td>
 <td width="50%">
 
-### 📊 [Prizara](https://github.com/anushka11p/prizara)
-*The Price Oracle*
+### `0x02` AI Job Tracker
+RAG pipeline + LangChain + OpenAI. Matches resumes to JDs. Autonomous job recon.
 
-Watches product prices across the realm. Alerts you the moment a deal appears. Built with Next.js, Supabase, Firecrawl.
-
-`Next.js` · `Supabase` · `JavaScript` ⭐ 1
+`LangChain` · `Next.js` · `Supabase`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🗺️ GapMap
-*The Gap-Sight Relic*
+### `0x03` GapMap
+Gemini-powered skill gap scanner for engineers. PromptWars 2026 hackathon build.
 
-AI-powered gap analysis for engineering students. Hack2Skill PromptWars submission. Next.js + Firebase + Gemini.
-
-`Gemini API` · `Firebase` · `Next.js`
+`Gemini` · `Firebase` · `Next.js`
 
 </td>
 <td width="50%">
 
-### 🚨 RoadSoS
-*The Emergency Beacon*
+### `0x04` RoadSoS
+Emergency response beacon. PWA submitted to IIT Madras Road Safety Hackathon 2026.
 
-Emergency response PWA for IIT Madras Road Safety Hackathon 2026. Real-time incident reporting + responder routing.
-
-`PWA` · `Maps API` · `React`
+`PWA` · `React` · `Maps API`
 
 </td>
 </tr>
@@ -164,17 +168,17 @@ Emergency response PWA for IIT Madras Road Safety Hackathon 2026. Real-time inci
 
 ---
 
-## 📊 The Kingdom's Ledger
+## ⟩⟩ SYSTEM_STATS.fetch()
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anushka11p&show_icons=true&theme=dark&hide_border=true&bg_color=1a0a2e&title_color=ffd700&icon_color=6a0dad&text_color=ffffff&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anushka11p&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ffff&icon_color=00ffff&text_color=ffffff&rank_icon=github" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka11p&layout=compact&theme=dark&hide_border=true&bg_color=1a0a2e&title_color=ffd700&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka11p&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00ffff&text_color=ffffff" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka11p&theme=dark&hide_border=true&background=1a0a2e&ring=ffd700&fire=6a0dad&currStreakLabel=ffd700" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka11p&theme=dark&hide_border=true&background=000000&ring=00ffff&fire=ff007f&currStreakLabel=00ffff" />
 
 </div>
 
@@ -182,8 +186,8 @@ Emergency response PWA for IIT Madras Road Safety Hackathon 2026. Real-time inci
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,50:6a0dad,100:1a0a2e&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ffff&height=80&text=//+SIGNING+OFF+//+ANUSHKA.EXE+TERMINATED&fontSize=16&fontColor=00ffff&fontAlignY=50" width="100%" />
 
-*"Not all those who wander are lost — some are just debugging."*
+*`> "Any fool can write code a computer understands. Good programmers write code humans can understand."`*
 
 </div>
