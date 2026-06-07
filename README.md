@@ -1,200 +1,164 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:ff0080,100:ffff00&height=200&section=header&text=🕹️+ANUSHKA+🕹️&fontSize=50&fontColor=ffff00&fontAlignY=38&desc=INSERT+COIN+TO+CONTINUE&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:00ff9f,100:ff007f&height=200&section=header&text=Anushka%20P.&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Code.%20Create.%20Conquer.&descAlignY=55&descSize=20&animation=fadeIn" width="100%" />
 
+<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=FF0080&center=true&vCenter=true&width=640&lines=PLAYER+1+HAS+ENTERED;ECE+%40+SRMIST+CHENNAI;GSSOC+2026+UNLOCKED!;INTERNSHIP+%40+HPE+ACHIEVED;GAME+DEV+MODE+ON;HIGH+SCORE%3A+STILL+COUNTING..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&random=false&width=600&lines=Electronics+%26+CS+Engineer+%40+SRMIST;GSSoC+2026+Contributor+%26+Mentee;Game+Dev+%7C+Unity+%7C+Blender+%7C+C%23;Building+%E2%86%92+Shipping+%E2%86%92+Iterating" alt="Typing SVG" />
 </a>
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=anushka11p&label=PLAYERS+JOINED&color=ff0080&style=flat-square" />
+
+<!-- Profile views + social badges -->
+<img src="https://komarev.com/ghpvc/?username=anushka11p&label=Profile+Views&color=00ff9f&style=flat-square" />
 &nbsp;
-<a href="https://youtube.com/@aifico"><img src="https://img.shields.io/badge/📺_%40aifico-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:anushkaprasad11@gmail.com"><img src="https://img.shields.io/badge/📧_MAIL-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/TvQh01XNNR/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
 
 </div>
 
 ---
 
-## 🏆 PLAYER STATS
+## 🧬 About Me
 
-```
-╔══════════════════════════════════════════════════╗
-║  ████  PLAYER 1 — ANUSHKA PRASAD  ████           ║
-╠══════════════════════════════════════════════════╣
-║  LVL   : Sophomore @ SRMIST ECE (2024–2028)      ║
-║  HP     : ██████████ FULL                        ║
-║  XP     : GSSoC 2026 Contributor + AI Mentee     ║
-║  GUILD  : HPE Bengaluru (Jun–Jul 2026)            ║
-║  WEAPON : Next.js  Unity  Python  C#             ║
-║  BONUS  : +5 SINGING  +10 GAMING  +99 SHIPPING   ║
-╚══════════════════════════════════════════════════╝
+```ts
+const anushka = {
+  currentRole : ["Intern @ Cybercode EduLabs"],
+  openSource  : "GSSoC 2026 — Contributor + Mentee (Open Source & AI Agents track)",
+  passions    : ["Game Development", "3D Art (Blender)", "Full-Stack Engineering"],
+  dreamGoal   : "Build something people love, ship it, repeat.",
+  funFact     : "I designed two Unity games before writing my first LangChain pipeline.",
+};
 ```
 
 ---
 
-## 🎮 SKILL LOADOUT
+## ⚡ Tech Stack
 
-**[ LANGUAGE PACK ]**
+**Languages**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD700?style=flat-square&logo=python&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-ff0080?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-**[ FRAMEWORK DLC ]**
+**Frameworks & Tools**
 
-![Next.js](https://img.shields.io/badge/Next.js-ffff00?style=flat-square&logo=next.js&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-ff0080?style=flat-square&logo=tailwind-css&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-**[ GAME ENGINE EXPANSION PACK ]**
-
-![Unity](https://img.shields.io/badge/Unity-ffffff?style=flat-square&logo=unity&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Unreal](https://img.shields.io/badge/Unreal-313131?style=flat-square&logo=unrealengine&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-**[ CLOUD POWER-UPS ]**
+**Databases & Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
-## 🕹️ WORLDS SHIPPED
-
-```
-  ★ STAGE 1 CLEAR ★           ★ STAGE 2 CLEAR ★
-```
+## 🎮 Game Dev Projects
 
 <table>
-<tr>
-<td width="50%" align="center">
-
-### 🐦 FLAP FLAP BIRD
-`GENRE: Endless Runner`
-
-Custom physics engine + procedural pipes. First game completed 100%. All achievements unlocked.
-
-`Unity` · `C#` · `2D Physics`
-
-**★★★ 3/3 STARS**
-
-</td>
-<td width="50%" align="center">
-
-### 💛 SAVE THE YELLOW
-`GENRE: Reflex Arcade`
-
-Blender-crafted characters. Full collision + scoring system. Built from scratch.
-
-`Unity` · `C#` · `Blender`
-
-**★★★ 3/3 STARS**
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🐦 Flap Flap Bird</h3>
+      <p>A Unity-built Flappy Bird clone with custom physics tuning and procedural pipe generation. First complete game shipped end-to-end.</p>
+      <img src="https://img.shields.io/badge/Unity-C%23-100000?style=flat-square&logo=unity&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <h3>💛 Save the Yellow</h3>
+      <p>A reflex-based arcade game built in Unity. Designed character art in Blender and handled complete game loop, collision, and scoring logic.</p>
+      <img src="https://img.shields.io/badge/Unity-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
-```
-  > STAGE 3: LOADING... ████████░░ (advanced Unity mechanics)
-```
+> 🛠️ Currently levelling up: **Advanced Unity mechanics, C# design patterns, and Blender rigging**
 
 ---
 
-## 🌿 SIDE QUEST LOG — GSSoC 2026
+## 🌿 GSSoC 2026 — Open Source Trail
 
-`CAMPAIGN: Open Source + AI Agents Track`
+> **Track:** Open Source Contributor + AI Agents Mentee
 
-```
-  [★ COMPLETE] PrepIQ      — Vercel/API routing bug defeated
-  [★ COMPLETE] VISUALAIZE  — Mic button enemy eliminated
-  [★ COMPLETE] Learnova    — 404 boss route conquered
-  [★ COMPLETE] StorySpark  — Feature chest opened + bug slain
-  [★ COMPLETE] LegalEase   — Frontend dungeon cleared
-  [★ COMPLETE] Agri-Vision — Recon mission successful
-  [~ ACTIVE  ] SpectraX    — Final boss audit in progress...
-```
+Repositories I've contributed to across GSSoC 2026:
+
+| Repo | Contribution Type | Status |
+|------|------------------|--------|
+| **PrepIQ** | Fixed Vercel/API routing bugs | ✅ Merged |
+| **VISUALAIZE** | Mic button fix | ✅ Merged |
+| **Learnova** | Next.js 404 route stubs | ✅ Merged |
+| **StorySpark AI** | Feature + bug fix | ✅ Merged |
+| **LegalEase** | Frontend issue | ✅ Merged |
+| **Agri-Vision** | Bug report + PR | ✅ Merged |
+| **SpectraX** | Audit + issue filing | 🔄 Active |
 
 ---
 
-## 🚀 GAME CARTRIDGE COLLECTION
+## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-
-### 🟡 [PRIZARA](https://github.com/anushka11p/prizara)
-`CARTRIDGE 01 — PRICE HUNTER`
-
-Real-time price tracker. Alerts when prices drop. Next.js + Supabase + Firecrawl.
-
-`JS` · `Next.js` · `Supabase` ⭐ 1
-
-</td>
-<td width="50%">
-
-### 🔵 AI JOB TRACKER
-`CARTRIDGE 02 — CAREER RPG`
-
-LangChain + OpenAI RAG pipeline. Auto-matches your resume to job descriptions.
-
-`LangChain` · `Next.js` · `Supabase`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🟢 GAPMAP
-`CARTRIDGE 03 — SKILL SCANNER`
-
-Gemini-powered gap analysis for engineers. Hack2Skill PromptWars 2026 entry.
-
-`Gemini` · `Firebase` · `Next.js`
-
-</td>
-<td width="50%">
-
-### 🔴 ROADSOS
-`CARTRIDGE 04 — EMERGENCY CALL`
-
-Emergency response PWA. IIT Madras Road Safety Hackathon 2026. Real-time routing.
-
-`PWA` · `React` · `Maps`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI Job Application Tracker</h3>
+      <p>End-to-end job tracking with LangChain + OpenAI API, built on Next.js + Supabase. RAG pipeline for resume-to-JD matching.</p>
+      <img src="https://img.shields.io/badge/LangChain-Next.js-1C3C3C?style=flat-square" />
+    </td>
+    <td width="50%">
+      <h3>📊 MLOps Drift Detection System</h3>
+      <p>Model monitoring pipeline using scikit-learn, Evidently AI, MLflow, and Streamlit. Detects data + concept drift in production.</p>
+      <img src="https://img.shields.io/badge/scikit--learn-MLflow-F7931E?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🗺️ GapMap</h3>
+      <p>AI-powered gap analysis tool for engineering students. Built for Hack2Skill PromptWars using Next.js, Firebase, and Gemini API.</p>
+      <img src="https://img.shields.io/badge/Gemini-Firebase-4285F4?style=flat-square" />
+    </td>
+    <td width="50%">
+      <h3>🚨 RoadSoS</h3>
+      <p>Emergency response PWA submitted to IIT Madras Road Safety Hackathon 2026. Real-time incident reporting + nearest responder routing.</p>
+      <img src="https://img.shields.io/badge/PWA-IIT%20Madras%20Hackathon-FF007F?style=flat-square" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🏅 HIGH SCORE BOARD
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anushka11p&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffff00&icon_color=ff0080&text_color=ffffff&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=anushka11p&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f23&title_color=00ff9f&icon_color=ff007f&text_color=ffffff&rank_icon=github" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka11p&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffff00&text_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka11p&layout=compact&theme=radical&hide_border=true&bg_color=0f0f23&title_color=00ff9f&text_color=ffffff" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka11p&theme=dark&hide_border=true&background=000000&ring=ffff00&fire=ff0080&currStreakLabel=ffff00" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka11p&theme=radical&hide_border=true&background=0f0f23&ring=00ff9f&fire=ff007f&currStreakLabel=00ff9f" />
 
 </div>
 
 ---
 
+## 🏆 Highlights
+
+- 🎓 **B.Tech Student** — specializing at the intersection of hardware and software
+- 🌱 **GSSoC 2026** — Active contributor across 7+ repos in Open Source & AI Agents tracks
+- 🎮 **Game Developer** — 2 shipped Unity games, actively learning advanced mechanics
+
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffff00,50:ff0080,100:000000&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,50:00ff9f,100:0f0f23&height=120&section=footer" width="100%" />
 
-***GAME OVER?  NO.  PRESS START.***
+*"Good code is its own best documentation." — Steve McConnell*
 
 </div>
