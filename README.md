@@ -24,9 +24,12 @@
 
 ```ts
 const anushka = {
+  role        : "Electronics & Computer Engineering @ SRMIST",
   openSource  : "GSSoC '26 — Contributor, AI Systems & Open Source Track",
-  currentlyBuilding : ["Aether — multi-agent AI orchestration platform",
-  passions    : "Game Development", "3D Art (Blender)", "Software Engineering", "Multi-Agent AI Systems",
+  currentlyBuilding : [
+    "Aether — multi-agent AI orchestration platform"
+  ],
+  passions    : ["Game Development", "3D Art (Blender)", "Software Engineering", "Multi-Agent AI Systems"],
   dreamGoal   : "Build something people love, ship it, repeat.",
   funFact     : "I shipped two Unity games before writing my first LangChain pipeline.",
 };
@@ -43,21 +46,31 @@ const anushka = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
 **Frameworks & Tools**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=swift&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**AI / ML & Data**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Databases & Cloud**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
@@ -84,7 +97,7 @@ const anushka = {
 
 ## 🌿 GSSoC 2026 — Open Source Trail
 
-> **Track:** Open Source Contributor + AI Agents Mentee
+> **Track:** Open Source Contributor, AI Systems & Open Source Track
 
 Repositories I've contributed to across GSSoC 2026:
 
@@ -105,26 +118,26 @@ Repositories I've contributed to across GSSoC 2026:
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 AI Job Application Tracker</h3>
-      <p>End-to-end job tracking with LangChain + OpenAI API, built on Next.js + Supabase. RAG pipeline for resume-to-JD matching.</p>
-      <img src="https://img.shields.io/badge/LangChain-Next.js-1C3C3C?style=flat-square" />
+      <h3>🧬 Infant Jaundice Prediction</h3>
+      <p>Machine learning-based system to predict infant jaundice risk, built under the guidance of Dr. Dhanalakshmi S, SRMIST.</p>
+      <img src="https://img.shields.io/badge/Machine%20Learning-Python-F7931E?style=flat-square" />
     </td>
     <td width="50%">
       <h3>📊 MLOps Drift Detection System</h3>
-      <p>Model monitoring pipeline using scikit-learn, Evidently AI, MLflow, and Streamlit. Detects data + concept drift in production.</p>
-      <img src="https://img.shields.io/badge/scikit--learn-MLflow-F7931E?style=flat-square" />
+      <p>Model monitoring pipeline using scikit-learn, PSI, and Kolmogorov–Smirnov tests to detect production ML drift. Automated retraining pipeline recovered accuracy from 67% → 75% post-drift, surfaced via a real-time Streamlit dashboard.</p>
+      <img src="https://img.shields.io/badge/scikit--learn-Streamlit-F7931E?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🗺️ GapMap</h3>
-      <p>AI-powered gap analysis tool for engineering students. Built for Hack2Skill PromptWars using Next.js, Firebase, and Gemini API.</p>
-      <img src="https://img.shields.io/badge/Gemini-Firebase-4285F4?style=flat-square" />
+      <h3>🌌 Cosmic Reality Engine</h3>
+      <p>Real-time computer vision macOS app using Apple's Vision framework for dual-hand tracking, driving a custom Metal rendering pipeline that projects a tesseract (4D hypercube) into 3D space across six rotation planes.</p>
+      <img src="https://img.shields.io/badge/Swift-Metal-F05138?style=flat-square&logo=swift&logoColor=white" />
     </td>
     <td width="50%">
-      <h3>🚨 RoadSoS</h3>
-      <p>Emergency response PWA submitted to IIT Madras Road Safety Hackathon 2026. Real-time incident reporting + nearest responder routing.</p>
-      <img src="https://img.shields.io/badge/PWA-IIT%20Madras%20Hackathon-FF007F?style=flat-square" />
+      <h3>🤖 Aether</h3>
+      <p>Multi-agent AI orchestration platform using LangGraph to coordinate researcher/writer/critic agents in a self-correcting feedback loop, served via FastAPI with real-time WebSocket streaming to a Next.js frontend.</p>
+      <img src="https://img.shields.io/badge/LangGraph-FastAPI-1C3C3C?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -150,7 +163,8 @@ Repositories I've contributed to across GSSoC 2026:
 ## 🏆 Highlights
 
 - 🎓 **B.Tech Student** — specializing at the intersection of hardware and software
-- 🌱 **GSSoC 2026** — Active contributor across 7+ repos in Open Source & AI Agents tracks
+- 🌱 **GSSoC 2026** — Active contributor across 7+ repos in the AI Systems & Open Source Track
+- 🧬 **Research** — Building an ML-based infant jaundice prediction system under Dr. Dhanalakshmi S, SRMIST
 - 🎮 **Game Developer** — 2 shipped Unity games, actively learning advanced mechanics
 
 ---
