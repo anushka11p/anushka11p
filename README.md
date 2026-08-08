@@ -24,10 +24,11 @@
 
 ```ts
 const anushka = {
-  openSource  : "GSSoC 2026 — Contributor + Mentee (Open Source & AI Agents track)",
-  passions    : ["Game Development", "3D Art (Blender)", "Software Engineering", "AI Agents Management"],
+  openSource  : "GSSoC '26 — Contributor, AI Systems & Open Source Track",
+  currentlyBuilding : ["Aether — multi-agent AI orchestration platform",
+  passions    : "Game Development", "3D Art (Blender)", "Software Engineering", "Multi-Agent AI Systems",
   dreamGoal   : "Build something people love, ship it, repeat.",
-  funFact     : "I designed two Unity games before writing my first LangChain pipeline.",
+  funFact     : "I shipped two Unity games before writing my first LangChain pipeline.",
 };
 ```
 
