@@ -109,7 +109,7 @@ Repositories I've contributed to across GSSoC 2026:
 | **StorySpark AI** | Feature + bug fix | ✅ Merged |
 | **LegalEase** | Frontend issue | ✅ Merged |
 | **Agri-Vision** | Bug report + PR | ✅ Merged |
-| **SpectraX** | Audit + issue filing | 🔄 Active |
+| **SpectraX** | Audit + issue filing | ✅ Merged |
 
 ---
 
