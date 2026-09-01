@@ -32,6 +32,7 @@ const anushka = {
   passions    : ["Game Development", "3D Art (Blender)", "Software Engineering", "Multi-Agent AI Systems"],
   dreamGoal   : "Build something people love, ship it, repeat.",
   funFact     : "I shipped two Unity games before writing my first LangChain pipeline.",
+  social      : https://x.com/aureeyey (check out my crazy projects which are showcased on my profile!)
 };
 ```
 
