@@ -164,7 +164,7 @@ Repositories I've contributed to across GSSoC 2026:
 ## 🏆 Highlights
 
 - 🎓 **B.Tech Student** — specializing at the intersection of hardware and software
-- 🌱 **GSSoC 2026** — Active contributor across 7+ repos in the AI Systems & Open Source Track
+- 🌱 **GSSoC 2026** —  contributod across 10+ repos in the AI Systems & Open Source Track
 - 🧬 **Research** — Building an ML-based infant jaundice prediction system under Dr. Dhanalakshmi S, SRMIST
 - 🎮 **Game Developer** — 2 shipped Unity games, actively learning advanced mechanics
 
